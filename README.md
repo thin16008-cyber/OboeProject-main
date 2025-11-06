@@ -1,17 +1,6 @@
 # Oboe - Nền tảng học tiếng Anh thông minh
 
 
-
-Oboe là một nền tảng học tiếng Anh toàn diện, được thiết kế để giúp người học tiếp cận ngôn ngữ này một cách hiệu quả và cá nhân hóa.
-
-## 📄 Tài liệu SRS
-
-📋 **Tài liệu đặc tả yêu cầu phần mềm (Software Requirements Specification)**
-
-Tài liệu SRS chi tiết mô tả các yêu cầu chức năng, phi chức năng, use case, giao diện người dùng và kiến trúc hệ thống của dự án Oboe.
-
-🔗 **[Xem tài liệu SRS đầy đủ](https://docs.google.com/document/d/11EFWQbEjcnAbDQ1XEmVn_tXmRUQYTJ95AEogeqGV4zA/edit?fbclid=IwY2xjawMK-bZleHRuA2FlbQIxMABicmlkETFWTzNjM2dWN0VXNW5TSUxUAR7iDreKfoapXIOQJEJWelf-dgNiN0sdRvnL2gAYALlksOn-5jfeCJprJVAg7A_aem_GNqs4xhYb19-8Zcr8869mA&tab=t.0)**
-
 ### Nội dung chính:
 - 📊 Phân tích yêu cầu hệ thống
 - 🎯 Danh sách Use Case chi tiết
@@ -19,30 +8,6 @@ Tài liệu SRS chi tiết mô tả các yêu cầu chức năng, phi chức nă
 - 🏗️ Kiến trúc và đặc tả chức năng
 - 🧪 Kế hoạch kiểm thử
 
-## 📋 Mục lục
-
-- [📄 Tài liệu SRS](#-tài-liệu-srs)
-- [✨ Tính năng nổi bật](#-tính-năng-nổi-bật)
-- [🚀 Công nghệ sử dụng](#-công-nghệ-sử-dụng)
-- [🏗️ Tổng quan hạ tầng hệ thống](#️-tổng-quan-hạ-tầng-hệ-thống)
-- [📁 Cấu trúc dự án](#-cấu-trúc-dự-án)
-- [🚀 Hướng dẫn khởi chạy nhanh](#-hướng-dẫn-khởi-chạy-nhanh)
-  - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-  - [Cơ sở dữ liệu](#cơ-sở-dữ-liệu)
-- [⚙️ Biến môi trường](#️-biến-môi-trường)
-  - [Frontend (.env)](#frontend-env)
-  - [Backend (application.properties)](#backend-applicationproperties)
-- [📚 API Endpoints](#-api-endpoints)
-- [🚀 Triển khai](#-triển-khai)
-- [Đội ngũ & Vai trò](#đội-ngũ--vai-trò)
-  - [👥 Đội ngũ phát triển](#-đội-ngũ-phát-triển)
-  - [🎯 Phân công chi tiết](#-phân-công-chi-tiết)
-  - [📊 Thống kê đóng góp](#-thống-kê-đóng-góp)
-- [Đóng góp](#đóng-góp)
-- [Giấy phép](#giấy-phép)
-- [Liên hệ & Liên kết](#liên-hệ--liên-kết)
 
 ## ✨ Tính năng nổi bật
 
@@ -267,10 +232,6 @@ docker build -t oboe-backend .
 docker run -p 8080:8080 oboe-backend
 ```
 
-## Team & Roles
-
-### 👥 **Đội ngũ phát triển**
-
 
 ## Đóng góp
 
@@ -280,14 +241,7 @@ docker run -p 8080:8080 oboe-backend
 4. Push to branch (`git push origin feature/TenTinhNang`)
 5. Tạo Pull Request
 
-## Giấy phép
 
 Dự án này được phát triển cho mục đích học tập và nghiên cứu.
 
-## Liên hệ & Liên kết
 
-- **Website**: [https://oboeru.me/](https://oboeru.me/)
-
----
-
-**Oboe** - Nền tảng học tiếng Anh thông minh với AI
